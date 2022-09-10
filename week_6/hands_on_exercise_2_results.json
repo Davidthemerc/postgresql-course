@@ -1,0 +1,428 @@
+[
+  {
+    "TOWNS": "Akron"
+  },
+  {
+    "TOWNS": "Albuquerque"
+  },
+  {
+    "TOWNS": "Amarillo"
+  },
+  {
+    "TOWNS": "Anaheim"
+  },
+  {
+    "TOWNS": "Anchorage"
+  },
+  {
+    "TOWNS": "Arlington"
+  },
+  {
+    "TOWNS": "Atlanta"
+  },
+  {
+    "TOWNS": "Augusta-Richmond County"
+  },
+  {
+    "TOWNS": "Aurora"
+  },
+  {
+    "TOWNS": "Austin"
+  },
+  {
+    "TOWNS": "Bakersfield"
+  },
+  {
+    "TOWNS": "Baltimore"
+  },
+  {
+    "TOWNS": "Baton Rouge"
+  },
+  {
+    "TOWNS": "Birmingham"
+  },
+  {
+    "TOWNS": "Boise City"
+  },
+  {
+    "TOWNS": "Boston"
+  },
+  {
+    "TOWNS": "Brownsville"
+  },
+  {
+    "TOWNS": "Buffalo"
+  },
+  {
+    "TOWNS": "Cape Coral"
+  },
+  {
+    "TOWNS": "Chandler"
+  },
+  {
+    "TOWNS": "Charlotte"
+  },
+  {
+    "TOWNS": "Chattanooga"
+  },
+  {
+    "TOWNS": "Chesapeake"
+  },
+  {
+    "TOWNS": "Chicago"
+  },
+  {
+    "TOWNS": "Chula Vista"
+  },
+  {
+    "TOWNS": "Cincinnati"
+  },
+  {
+    "TOWNS": "Cleveland"
+  },
+  {
+    "TOWNS": "Colorado Springs"
+  },
+  {
+    "TOWNS": "Columbus"
+  },
+  {
+    "TOWNS": "Corpus Christi"
+  },
+  {
+    "TOWNS": "Dallas"
+  },
+  {
+    "TOWNS": "Denver"
+  },
+  {
+    "TOWNS": "Des Moines"
+  },
+  {
+    "TOWNS": "Detroit"
+  },
+  {
+    "TOWNS": "Durham"
+  },
+  {
+    "TOWNS": "El Paso"
+  },
+  {
+    "TOWNS": "Fayetteville"
+  },
+  {
+    "TOWNS": "Fontana"
+  },
+  {
+    "TOWNS": "Fort Lauderdale"
+  },
+  {
+    "TOWNS": "Fort Wayne"
+  },
+  {
+    "TOWNS": "Fort Worth"
+  },
+  {
+    "TOWNS": "Fremont"
+  },
+  {
+    "TOWNS": "Fresno"
+  },
+  {
+    "TOWNS": "Garden Grove"
+  },
+  {
+    "TOWNS": "Garland"
+  },
+  {
+    "TOWNS": "Gilbert"
+  },
+  {
+    "TOWNS": "Glendale"
+  },
+  {
+    "TOWNS": "Grand Prairie"
+  },
+  {
+    "TOWNS": "Grand Rapids"
+  },
+  {
+    "TOWNS": "Greensboro"
+  },
+  {
+    "TOWNS": "Henderson"
+  },
+  {
+    "TOWNS": "Hialeah"
+  },
+  {
+    "TOWNS": "Honolulu"
+  },
+  {
+    "TOWNS": "Houston"
+  },
+  {
+    "TOWNS": "Huntington Beach"
+  },
+  {
+    "TOWNS": "Huntsville"
+  },
+  {
+    "TOWNS": "Indianapolis"
+  },
+  {
+    "TOWNS": "Irvine"
+  },
+  {
+    "TOWNS": "Irving"
+  },
+  {
+    "TOWNS": "Jackson"
+  },
+  {
+    "TOWNS": "Jacksonville"
+  },
+  {
+    "TOWNS": "Jersey City"
+  },
+  {
+    "TOWNS": "Kansas City"
+  },
+  {
+    "TOWNS": "Knoxville"
+  },
+  {
+    "TOWNS": "Laredo"
+  },
+  {
+    "TOWNS": "Las Vegas"
+  },
+  {
+    "TOWNS": "Lexington-Fayette"
+  },
+  {
+    "TOWNS": "Lincoln"
+  },
+  {
+    "TOWNS": "Little Rock"
+  },
+  {
+    "TOWNS": "Long Beach"
+  },
+  {
+    "TOWNS": "Los Angeles"
+  },
+  {
+    "TOWNS": "Louisville/Jefferson County"
+  },
+  {
+    "TOWNS": "Lubbock"
+  },
+  {
+    "TOWNS": "Madison"
+  },
+  {
+    "TOWNS": "Memphis"
+  },
+  {
+    "TOWNS": "Mesa"
+  },
+  {
+    "TOWNS": "Miami"
+  },
+  {
+    "TOWNS": "Milwaukee"
+  },
+  {
+    "TOWNS": "Minneapolis"
+  },
+  {
+    "TOWNS": "Mobile"
+  },
+  {
+    "TOWNS": "Modesto"
+  },
+  {
+    "TOWNS": "Montgomery"
+  },
+  {
+    "TOWNS": "Moreno Valley"
+  },
+  {
+    "TOWNS": "Nashville-Davidson"
+  },
+  {
+    "TOWNS": "New Orleans"
+  },
+  {
+    "TOWNS": "New York"
+  },
+  {
+    "TOWNS": "Newark"
+  },
+  {
+    "TOWNS": "Newport News"
+  },
+  {
+    "TOWNS": "Norfolk"
+  },
+  {
+    "TOWNS": "North Las Vegas"
+  },
+  {
+    "TOWNS": "Oakland"
+  },
+  {
+    "TOWNS": "Oceanside"
+  },
+  {
+    "TOWNS": "Omaha"
+  },
+  {
+    "TOWNS": "Ontario"
+  },
+  {
+    "TOWNS": "Orlando"
+  },
+  {
+    "TOWNS": "Overland Park"
+  },
+  {
+    "TOWNS": "Oxnard"
+  },
+  {
+    "TOWNS": "Philadelphia"
+  },
+  {
+    "TOWNS": "Phoenix"
+  },
+  {
+    "TOWNS": "Pittsburgh"
+  },
+  {
+    "TOWNS": "Plano"
+  },
+  {
+    "TOWNS": "Port St. Lucie"
+  },
+  {
+    "TOWNS": "Portland"
+  },
+  {
+    "TOWNS": "Providence"
+  },
+  {
+    "TOWNS": "Raleigh"
+  },
+  {
+    "TOWNS": "Rancho Cucamonga"
+  },
+  {
+    "TOWNS": "Reno"
+  },
+  {
+    "TOWNS": "Richmond"
+  },
+  {
+    "TOWNS": "Riverside"
+  },
+  {
+    "TOWNS": "Rochester"
+  },
+  {
+    "TOWNS": "Sacramento"
+  },
+  {
+    "TOWNS": "Salt Lake City"
+  },
+  {
+    "TOWNS": "San Antonio"
+  },
+  {
+    "TOWNS": "San Bernardino"
+  },
+  {
+    "TOWNS": "San Diego"
+  },
+  {
+    "TOWNS": "San Francisco"
+  },
+  {
+    "TOWNS": "San Jose"
+  },
+  {
+    "TOWNS": "Santa Ana"
+  },
+  {
+    "TOWNS": "Santa Clarita"
+  },
+  {
+    "TOWNS": "Santa Rosa"
+  },
+  {
+    "TOWNS": "Scottsdale"
+  },
+  {
+    "TOWNS": "Seattle"
+  },
+  {
+    "TOWNS": "Shreveport"
+  },
+  {
+    "TOWNS": "Spokane"
+  },
+  {
+    "TOWNS": "St. Louis"
+  },
+  {
+    "TOWNS": "St. Paul"
+  },
+  {
+    "TOWNS": "St. Petersburg"
+  },
+  {
+    "TOWNS": "Stockton"
+  },
+  {
+    "TOWNS": "Tacoma"
+  },
+  {
+    "TOWNS": "Tallahassee"
+  },
+  {
+    "TOWNS": "Tampa"
+  },
+  {
+    "TOWNS": "Tempe"
+  },
+  {
+    "TOWNS": "Toledo"
+  },
+  {
+    "TOWNS": "Tucson"
+  },
+  {
+    "TOWNS": "Tulsa"
+  },
+  {
+    "TOWNS": "Vancouver"
+  },
+  {
+    "TOWNS": "Virginia Beach"
+  },
+  {
+    "TOWNS": "Washington"
+  },
+  {
+    "TOWNS": "Wichita"
+  },
+  {
+    "TOWNS": "Winston-Salem"
+  },
+  {
+    "TOWNS": "Worcester"
+  },
+  {
+    "TOWNS": "Yonkers"
+  }
+]

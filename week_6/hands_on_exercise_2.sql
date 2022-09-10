@@ -1,0 +1,1 @@
+SELECT DISTINCT pcity as "TOWNS" FROM people ORDER BY pcity ASC;
