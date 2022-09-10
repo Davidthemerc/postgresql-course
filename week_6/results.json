@@ -1,0 +1,428 @@
+[
+  {
+    "pcity": "Akron"
+  },
+  {
+    "pcity": "Albuquerque"
+  },
+  {
+    "pcity": "Amarillo"
+  },
+  {
+    "pcity": "Anaheim"
+  },
+  {
+    "pcity": "Anchorage"
+  },
+  {
+    "pcity": "Arlington"
+  },
+  {
+    "pcity": "Atlanta"
+  },
+  {
+    "pcity": "Augusta-Richmond County"
+  },
+  {
+    "pcity": "Aurora"
+  },
+  {
+    "pcity": "Austin"
+  },
+  {
+    "pcity": "Bakersfield"
+  },
+  {
+    "pcity": "Baltimore"
+  },
+  {
+    "pcity": "Baton Rouge"
+  },
+  {
+    "pcity": "Birmingham"
+  },
+  {
+    "pcity": "Boise City"
+  },
+  {
+    "pcity": "Boston"
+  },
+  {
+    "pcity": "Brownsville"
+  },
+  {
+    "pcity": "Buffalo"
+  },
+  {
+    "pcity": "Cape Coral"
+  },
+  {
+    "pcity": "Chandler"
+  },
+  {
+    "pcity": "Charlotte"
+  },
+  {
+    "pcity": "Chattanooga"
+  },
+  {
+    "pcity": "Chesapeake"
+  },
+  {
+    "pcity": "Chicago"
+  },
+  {
+    "pcity": "Chula Vista"
+  },
+  {
+    "pcity": "Cincinnati"
+  },
+  {
+    "pcity": "Cleveland"
+  },
+  {
+    "pcity": "Colorado Springs"
+  },
+  {
+    "pcity": "Columbus"
+  },
+  {
+    "pcity": "Corpus Christi"
+  },
+  {
+    "pcity": "Dallas"
+  },
+  {
+    "pcity": "Denver"
+  },
+  {
+    "pcity": "Des Moines"
+  },
+  {
+    "pcity": "Detroit"
+  },
+  {
+    "pcity": "Durham"
+  },
+  {
+    "pcity": "El Paso"
+  },
+  {
+    "pcity": "Fayetteville"
+  },
+  {
+    "pcity": "Fontana"
+  },
+  {
+    "pcity": "Fort Lauderdale"
+  },
+  {
+    "pcity": "Fort Wayne"
+  },
+  {
+    "pcity": "Fort Worth"
+  },
+  {
+    "pcity": "Fremont"
+  },
+  {
+    "pcity": "Fresno"
+  },
+  {
+    "pcity": "Garden Grove"
+  },
+  {
+    "pcity": "Garland"
+  },
+  {
+    "pcity": "Gilbert"
+  },
+  {
+    "pcity": "Glendale"
+  },
+  {
+    "pcity": "Grand Prairie"
+  },
+  {
+    "pcity": "Grand Rapids"
+  },
+  {
+    "pcity": "Greensboro"
+  },
+  {
+    "pcity": "Henderson"
+  },
+  {
+    "pcity": "Hialeah"
+  },
+  {
+    "pcity": "Honolulu"
+  },
+  {
+    "pcity": "Houston"
+  },
+  {
+    "pcity": "Huntington Beach"
+  },
+  {
+    "pcity": "Huntsville"
+  },
+  {
+    "pcity": "Indianapolis"
+  },
+  {
+    "pcity": "Irvine"
+  },
+  {
+    "pcity": "Irving"
+  },
+  {
+    "pcity": "Jackson"
+  },
+  {
+    "pcity": "Jacksonville"
+  },
+  {
+    "pcity": "Jersey City"
+  },
+  {
+    "pcity": "Kansas City"
+  },
+  {
+    "pcity": "Knoxville"
+  },
+  {
+    "pcity": "Laredo"
+  },
+  {
+    "pcity": "Las Vegas"
+  },
+  {
+    "pcity": "Lexington-Fayette"
+  },
+  {
+    "pcity": "Lincoln"
+  },
+  {
+    "pcity": "Little Rock"
+  },
+  {
+    "pcity": "Long Beach"
+  },
+  {
+    "pcity": "Los Angeles"
+  },
+  {
+    "pcity": "Louisville/Jefferson County"
+  },
+  {
+    "pcity": "Lubbock"
+  },
+  {
+    "pcity": "Madison"
+  },
+  {
+    "pcity": "Memphis"
+  },
+  {
+    "pcity": "Mesa"
+  },
+  {
+    "pcity": "Miami"
+  },
+  {
+    "pcity": "Milwaukee"
+  },
+  {
+    "pcity": "Minneapolis"
+  },
+  {
+    "pcity": "Mobile"
+  },
+  {
+    "pcity": "Modesto"
+  },
+  {
+    "pcity": "Montgomery"
+  },
+  {
+    "pcity": "Moreno Valley"
+  },
+  {
+    "pcity": "Nashville-Davidson"
+  },
+  {
+    "pcity": "New Orleans"
+  },
+  {
+    "pcity": "New York"
+  },
+  {
+    "pcity": "Newark"
+  },
+  {
+    "pcity": "Newport News"
+  },
+  {
+    "pcity": "Norfolk"
+  },
+  {
+    "pcity": "North Las Vegas"
+  },
+  {
+    "pcity": "Oakland"
+  },
+  {
+    "pcity": "Oceanside"
+  },
+  {
+    "pcity": "Omaha"
+  },
+  {
+    "pcity": "Ontario"
+  },
+  {
+    "pcity": "Orlando"
+  },
+  {
+    "pcity": "Overland Park"
+  },
+  {
+    "pcity": "Oxnard"
+  },
+  {
+    "pcity": "Philadelphia"
+  },
+  {
+    "pcity": "Phoenix"
+  },
+  {
+    "pcity": "Pittsburgh"
+  },
+  {
+    "pcity": "Plano"
+  },
+  {
+    "pcity": "Port St. Lucie"
+  },
+  {
+    "pcity": "Portland"
+  },
+  {
+    "pcity": "Providence"
+  },
+  {
+    "pcity": "Raleigh"
+  },
+  {
+    "pcity": "Rancho Cucamonga"
+  },
+  {
+    "pcity": "Reno"
+  },
+  {
+    "pcity": "Richmond"
+  },
+  {
+    "pcity": "Riverside"
+  },
+  {
+    "pcity": "Rochester"
+  },
+  {
+    "pcity": "Sacramento"
+  },
+  {
+    "pcity": "Salt Lake City"
+  },
+  {
+    "pcity": "San Antonio"
+  },
+  {
+    "pcity": "San Bernardino"
+  },
+  {
+    "pcity": "San Diego"
+  },
+  {
+    "pcity": "San Francisco"
+  },
+  {
+    "pcity": "San Jose"
+  },
+  {
+    "pcity": "Santa Ana"
+  },
+  {
+    "pcity": "Santa Clarita"
+  },
+  {
+    "pcity": "Santa Rosa"
+  },
+  {
+    "pcity": "Scottsdale"
+  },
+  {
+    "pcity": "Seattle"
+  },
+  {
+    "pcity": "Shreveport"
+  },
+  {
+    "pcity": "Spokane"
+  },
+  {
+    "pcity": "St. Louis"
+  },
+  {
+    "pcity": "St. Paul"
+  },
+  {
+    "pcity": "St. Petersburg"
+  },
+  {
+    "pcity": "Stockton"
+  },
+  {
+    "pcity": "Tacoma"
+  },
+  {
+    "pcity": "Tallahassee"
+  },
+  {
+    "pcity": "Tampa"
+  },
+  {
+    "pcity": "Tempe"
+  },
+  {
+    "pcity": "Toledo"
+  },
+  {
+    "pcity": "Tucson"
+  },
+  {
+    "pcity": "Tulsa"
+  },
+  {
+    "pcity": "Vancouver"
+  },
+  {
+    "pcity": "Virginia Beach"
+  },
+  {
+    "pcity": "Washington"
+  },
+  {
+    "pcity": "Wichita"
+  },
+  {
+    "pcity": "Winston-Salem"
+  },
+  {
+    "pcity": "Worcester"
+  },
+  {
+    "pcity": "Yonkers"
+  }
+]
