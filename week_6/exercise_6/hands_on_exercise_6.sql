@@ -1,1 +1,1 @@
-SELECT ROUND(1-(CAST(lidesired AS NUMERIC) - CAST(lipurchased AS NUMERIC))/CAST(lidesired AS NUMERIC),2) AS "Fulfillment" FROM listitems
+SELECT ROUND((1-(CAST(lidesired AS NUMERIC) - CAST(lipurchased AS NUMERIC))/CAST(lidesired AS NUMERIC))*100,2) || '%' AS "Fulfillment" FROM listitems
