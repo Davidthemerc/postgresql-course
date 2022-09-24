@@ -1,0 +1,1 @@
+SELECT pfirstname as "First Name", cast(pfavorites->'Desserts' as TEXT) as "Favorite Desserts" FROM people
