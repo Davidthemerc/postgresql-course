@@ -1,0 +1,1 @@
+SELECT cast(pid as INT) as "Int",cast(pid as NUMERIC) as "Numeric",cast(pid as TEXT) as "Text" FROM people
