@@ -1,0 +1,1 @@
+SELECT 2^8 as "2 to Power of 8", 1000/150 as "1000/150", 1000%150 as "Remainder 1", 400/34.3 as "400/34.3", 400%34.3 as "Remainder 2", ROUND(400/34.3,4) as "Round", CASE WHEN 85>64 THEN 'True' ELSE 'False' END as "Is 85 Greater than 64?"
