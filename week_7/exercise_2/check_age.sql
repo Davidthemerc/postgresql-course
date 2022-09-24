@@ -1,0 +1,1 @@
+SELECT pfirstname || ' ' || plastname || ' DOB is ' || pdob FROM people
