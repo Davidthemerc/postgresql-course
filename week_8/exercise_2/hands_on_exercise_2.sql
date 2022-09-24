@@ -1,0 +1,1 @@
+SELECT CAST(pfavorites as JSONB) -> 'Desserts' ? 'cake' as "Existence",CAST(pfavorites as JSONB) @> CAST('{"Desserts": ["cake"]}' AS JSONB) as "Containment" FROM people;
