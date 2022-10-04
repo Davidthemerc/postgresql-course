@@ -1,0 +1,2 @@
+SELECT pfirstname,plastname,pstate,ppoints FROM people WHERE ppoints>=7000 AND pstate NOT LIKE 'NY' ORDER BY ppoints DESC;
+SELECT pfirstname,plastname,pstate,ppoints FROM people WHERE ppoints>=7000 AND pstate<>'NY' ORDER BY ppoints DESC
