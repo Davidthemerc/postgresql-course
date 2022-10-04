@@ -1,0 +1,1 @@
+SELECT pfirstname,plastname,pfavorites->'Desserts'->>0 as "First Favorite Dessert Contains An A" FROM people WHERE (pfavorites->'Desserts'->>0) ILIKE '%a%'
