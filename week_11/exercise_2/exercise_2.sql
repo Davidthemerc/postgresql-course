@@ -1,0 +1,1 @@
+SELECT customers.cname,movies.mname,rentals.rid FROM customers JOIN rentals ON rentals.cid = customers.cid JOIN movies ON rentals.mid = movies.mid LIMIT 10
