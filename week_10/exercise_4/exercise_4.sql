@@ -1,0 +1,1 @@
+SELECT pfirstname,plastname,pdob FROM people WHERE (CAST('now' AS DATE) - CAST(pdob AS DATE))/365>=10 ORDER BY pdob DESC;
