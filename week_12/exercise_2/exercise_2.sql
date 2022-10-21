@@ -1,0 +1,2 @@
+SELECT mname,rentals.rid,customers.cname FROM movies NATURAL RIGHT JOIN rentals NATURAL RIGHT JOIN customers ORDER BY mname;
+SELECT mname,rentals.rid,customers.cname FROM movies NATURAL LEFT JOIN rentals NATURAL LEFT JOIN customers ORDER BY mname;
