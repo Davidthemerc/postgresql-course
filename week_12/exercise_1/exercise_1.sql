@@ -1,0 +1,1 @@
+SELECT cname,rentals.rid,movies.mname FROM customers NATURAL RIGHT JOIN rentals NATURAL RIGHT JOIN movies
