@@ -1,0 +1,26 @@
+[
+  {
+    "dept": "Sales",
+    "ename": "Stacey"
+  },
+  {
+    "dept": "Sales",
+    "ename": "Shelley"
+  },
+  {
+    "dept": "Sales",
+    "ename": "Samantha"
+  },
+  {
+    "dept": "Manager",
+    "ename": "Shannon"
+  },
+  {
+    "dept": null,
+    "ename": "Sherry"
+  },
+  {
+    "dept": null,
+    "ename": "Sylvia"
+  }
+]

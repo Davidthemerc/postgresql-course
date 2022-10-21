@@ -1,0 +1,1 @@
+SELECT dept,employees.ename FROM department RIGHT JOIN employees USING (eid);
