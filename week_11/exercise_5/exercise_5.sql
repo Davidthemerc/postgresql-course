@@ -1,0 +1,2 @@
+SELECT cname,rentals.rid,movies.mname FROM customers LEFT JOIN rentals USING (cid) JOIN movies ON rentals.mid = movies.mid;
+SELECT cname,rentals.rid,movies.mname FROM customers NATURAL LEFT JOIN rentals NATURAL RIGHT JOIN movies;
