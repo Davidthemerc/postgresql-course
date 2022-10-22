@@ -1,0 +1,3 @@
+SELECT ename, department.dept FROM employees LEFT JOIN department USING (eid) WHERE department.dept='Sales';
+SELECT employees.ename, (SELECT dept FROM department WHERE employees.eid=department.eid AND department.dept='Sales') AS "Department" FROM employees;
+SELECT department.dept, (SELECT ename FROM employees WHERE employees.eid=department.eid) AS "Employee Name" from department WHERE department.dept='Sales';
