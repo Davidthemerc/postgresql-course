@@ -1,0 +1,1 @@
+SELECT pfirstname,plastname,lname,iname FROM people NATURAL JOIN lists NATURAL JOIN listitems NATURAL JOIN items LIMIT 10;
