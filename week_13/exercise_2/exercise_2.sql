@@ -1,0 +1,2 @@
+SELECT customers.cname, movies.mname, rid FROM rentals NATURAL LEFT JOIN customers NATURAL LEFT JOIN movies LIMIT 10;
+SELECT (SELECT cname FROM customers WHERE cid=rentals.cid),(SELECT mname FROM movies WHERE mid=rentals.mid), rid FROM rentals LIMIT 10;
