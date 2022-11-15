@@ -1,0 +1,1 @@
+SELECT cname,count(rid) FROM customers NATURAL LEFT JOIN rentals GROUP BY cname;
