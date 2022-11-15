@@ -1,2 +1,1 @@
-SELECT pid,pfirstname,plastname,(SELECT COUNT(*) FROM listitems WHERE lists.lid=listitems.lid) FROM people NATURAL JOIN lists NATURAL JOIN listitems ORDER BY pid DESC;
-SELECT pid,pfirstname,plastname,(SELECT COUNT(*) FROM listitems WHERE lists.lid=listitems.lid) FROM people NATURAL JOIN lists NATURAL JOIN listitems WHERE (SELECT COUNT(*) FROM listitems WHERE lists.lid=listitems.lid)>2 ORDER BY pid DESC;
+SELECT pfirstname,plastname,(SELECT COUNT(*) FROM listitems WHERE listitems.lid=lists.lid) FROM people NATURAL JOIN lists WHERE (SELECT COUNT(*) FROM listitems WHERE listitems.lid=lists.lid)>=2 ORDER BY count DESC;
