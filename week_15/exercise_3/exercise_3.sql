@@ -1,0 +1,2 @@
+SELECT pfirstname,plastname,(SELECT COUNT(*) FROM lists WHERE people.pid=lists.pid) as "Lists"  FROM people;
+SELECT pfirstname,plastname,(SELECT COUNT(*) FROM lists WHERE people.pid=lists.pid) as "Lists" FROM people ORDER BY "Lists" DESC;
