@@ -1,0 +1,2 @@
+SELECT pfirstname,plastname,(SELECT COUNT(*) FROM lists WHERE people.pid=lists.pid) as "Lists",ppoints FROM people ORDER BY "Lists" DESC;
+UPDATE people SET ppoints = ppoints + 1000 WHERE (SELECT COUNT(*) FROM lists WHERE people.pid=lists.pid) > 2 RETURNING *
