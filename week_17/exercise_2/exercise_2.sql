@@ -1,0 +1,1 @@
+DELETE FROM people WHERE (SELECT COUNT(*) FROM lists WHERE people.pid=lists.pid) <= 2 RETURNING *
