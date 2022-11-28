@@ -1,0 +1,2 @@
+SELECT pfirstname,plastname,ppoints FROM people WHERE ppoints < (SELECT avg(ppoints) FROM people) ORDER BY ppoints DESC LIMIT 10;
+UPDATE people SET ppoints = ppoints + 100 WHERE ppoints < (SELECT avg(ppoints) FROM people) RETURNING *
