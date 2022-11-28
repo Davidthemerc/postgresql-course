@@ -1,0 +1,2 @@
+UPDATE people SET pfirstname='Greedy' WHERE (SELECT COUNT(*) FROM listitems NATURAL JOIN lists WHERE lists.pid=people.pid)>=4 RETURNING *;
+UPDATE people SET pfirstname='Frugal' WHERE (SELECT COUNT(*) FROM listitems NATURAL JOIN lists WHERE lists.pid=people.pid)<4 RETURNING *;
