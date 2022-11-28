@@ -1,0 +1,2 @@
+DELETE FROM people WHERE (SELECT COUNT(*) FROM listitems NATURAL JOIN lists WHERE lists.pid=people.pid)<=4 RETURNING *;
+SELECT pfirstname,plastname,(SELECT COUNT(*) FROM listitems NATURAL JOIN lists WHERE lists.pid=people.pid) as "# of List Items" FROM people ORDER BY "# of List Items" desc;
